@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudante de Engenharia de software na Unb. Me interesso por desenvolvimento back-end e programação competitiva. Atualmente estou trabalhando com Node.js, Django REST e FastAPI
+Software Engineering student at UnB. I am interested in back-end development and competitive programming. Currently, I am working with Node.js, Django REST, and FastAPI.
 
 
 ## 🌐 Socials:
